@@ -9,4 +9,5 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/FreddyB58/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/FreddyB58/azure-network-protocols)
-
+- <b>Linux Deployment</b>
+  - [Linux Client Deployment and Command Line Fundamentals](https://github.com/FreddyB58/Linux-System-Deployment)

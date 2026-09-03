@@ -5,7 +5,7 @@
 - <b>Active Directory</b>
   - [Part 1 Preparing Active Directory Infrastructure in Azure](https://github.com/FreddyB58/Part-1-Active-Directory-set-up-documentation/blob/main/README.md)
   - [Part 2 Deploying Active Directory](https://github.com/FreddyB58/Part-2-Deploying-Active-Directory/blob/main/README.md)
-
+  - [Part 3 Creating Users in Powershell](https://github.com/FreddyB58/Part-3-Creating-Users-in-Powershell/blob/main/README.md)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Enterprise IT Help Desk Deployment & Lifecycle Management](https://github.com/FreddyB58/Enterprise-HelpDesk-Deployment)
 - <b>Linux Deployment</b>

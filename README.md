@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Active Directory</b>
+  - [Part 1 Preparing Active Directory Infrastructure in Azure](https://github.com/FreddyB58/Enterprise-HelpDesk-Deployment)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Enterprise IT Help Desk Deployment & Lifecycle Management](https://github.com/FreddyB58/Enterprise-HelpDesk-Deployment)
 - <b>Linux Deployment</b>
